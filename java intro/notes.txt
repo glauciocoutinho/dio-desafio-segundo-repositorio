@@ -1,0 +1,7 @@
+Java
+Intro
+
+Links:
+Book Head First Java: https://www.amazon.com.br/Head-First-Java-Brain-Friendly-Guide/dp/1491910771/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1676466217&sr=1-7
+
+Notes:
